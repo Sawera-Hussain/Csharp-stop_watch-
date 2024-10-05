@@ -1,0 +1,10 @@
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.csproj.AssemblyReference.cache
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.Form1.resources
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.Properties.Resources.resources
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.csproj.GenerateResource.cache
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.csproj.CoreCompileInputs.cache
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\bin\Debug\my_app.exe.config
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\bin\Debug\my_app.exe
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\bin\Debug\my_app.pdb
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.exe
+C:\Users\HAROON TRADERS\source\repos\my_app\my_app\obj\Debug\my_app.pdb
